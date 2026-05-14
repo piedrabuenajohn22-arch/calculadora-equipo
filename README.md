@@ -15,4 +15,4 @@ Sumas, restas, multi y division
 
 John:
 
-Documentación
+Main, documentación
