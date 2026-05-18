@@ -1,18 +1,21 @@
-# calculadora-equipo
+-
+Hola, este es nuestro grupo llamado Big N, en este trabajo, haremos una calculadora funcional con suma, resta, multiplicacion, y división en python
+-
 
-Integrantes-del-equipo
-Ian-Olivera
-John-Piedrabuena
+-
+Integrantes del equipo
+-
 
-Estado-del-proyecto:
-Pendiente
+John Piedrabuena
 
+Ian Olivera
+
+Estado del proyecto: Pendiente
+
+-
 Tareas del equipo:
+-
 
-Ian:
+John: Main y documentación
 
-Sumas, restas, multi y division
-
-John:
-
-Main, documentación
+Ian: Sumas, restas, multiplicación y división
